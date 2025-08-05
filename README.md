@@ -1,7 +1,3 @@
-Here’s an updated **README.md** with **badges** and a **GIF demo section**:
-
----
-
 # ✨ Cute Calculator Pro ✨
 
 A **cute and colorful calculator** built using **Python** and **Tkinter**!
@@ -56,7 +52,7 @@ This calculator is designed with a **fun UI**, offering both **basic and scienti
 Clone the repository:
 
 ```bash
-git clone https://github.com/your-username/cute-calculator-pro.git
+git clone https://github.com/GitSomeHelpPls/cute-calculator-pro.git
 ```
 
 Navigate to the project folder:
@@ -93,9 +89,6 @@ Currently available:
 
 ## 🖤 Credits
 
-Made with 💕 by [Your Name](https://github.com/your-username)
+Made with 💕 by [Katherine]([https://github.com/your-username](https://github.com/GitSomeHelpPls))
 
 ---
-
-✅ Do you want me to **generate the GIF for you** (from the screenshot and design you provided) OR give you **steps to create it yourself**?
-Also, should I **add code structure section** explaining files and functions?
