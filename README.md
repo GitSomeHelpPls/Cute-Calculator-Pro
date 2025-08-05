@@ -16,15 +16,7 @@ This calculator is designed with a **fun UI**, offering both **basic and scienti
 
 ## 📸 Screenshot
 
-![Cute Calculator Pro](./screenshot.png)
-*(Replace with your actual screenshot or keep the one above.)*
-
----
-
-## 🎥 Demo
-
-![Calculator Demo](./demo.gif)
-*(Add your GIF demo here. To record, you can use [ScreenToGif](https://www.screentogif.com/) or OBS and export as GIF.)*
+![Cute Calculator Pro](/screenshot.jpg)
 
 ---
 
